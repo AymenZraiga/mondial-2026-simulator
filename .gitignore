@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Fichier temporaire de VS Code Code Runner
+tempCodeRunnerFile.py
